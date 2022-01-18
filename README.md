@@ -1,2 +1,3 @@
-# TESTModule
-Test XCode Module for SPM
+# testmodule
+
+A description of this package.
